@@ -1,0 +1,45 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\22-311-0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "22-311-0.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (FALSE)
+    (LAYOUT_Units "0"))
+  (Folder "Outputs"
+    (File ".\22-311-0.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\22-311-0.dsn")
+      (Path "Design Resources" ".\22-311-0.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\22-311-0.dsn" "SCHEMATIC1" "MAIN"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 343"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 26 1134 26 408")
+        (Scroll "18 772")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MAIN")))
+  (MPSSessionName "Osvaldo_Collalti")
+  (ISPCBBASICLICENSE "false"))

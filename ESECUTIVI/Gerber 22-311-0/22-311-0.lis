@@ -1,0 +1,191 @@
+Post Processor Report
+OrCAD FILE: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.MAX
+Thu Sep 21 14:26:48 2023
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.TOP
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.TOP:
+---------------------------------------------------------
+D10:  0.1299 ROUND  --       0 Draws,       4 Flashes
+D11:  0.0394 ROUND  --       0 Draws,       3 Flashes
+D12:  0.0590 ROUND  --       0 Draws,       3 Flashes
+D13:  0.0590 SQUARE --       0 Draws,       2 Flashes
+D14:  0.0787 ROUND  --       0 Draws,      25 Flashes
+D15:  0.0512 ROUND  --       0 Draws,       3 Flashes
+D16:  0.0787 SQUARE --       0 Draws,       1 Flashes
+D17:  0.1200 ROUND  --       0 Draws,       2 Flashes
+D18:  0.1200 SQUARE --       0 Draws,       2 Flashes
+D19:  0.0669 SQUARE --       0 Draws,       2 Flashes
+D20:  0.0500 x 0.0400 RECTANGLE -----       3 Flashes
+D21:  0.0380 x 0.0320 RECTANGLE -----      10 Flashes
+D22:  0.0710 x 0.0400 RECTANGLE -----       4 Flashes
+D23:  0.0100 ROUND  --    1338 Draws,       0 Flashes
+D24:  0.0250 ROUND  --      27 Draws,       0 Flashes
+D25:  0.0120 ROUND  --      24 Draws,       0 Flashes
+D26:  0.0500 ROUND  --       9 Draws,       0 Flashes
+D27:  0.1000 ROUND  --       2 Draws,       0 Flashes
+D28:  0.0394 ROUND  --       0 Draws,       4 Flashes
+D29:  0.0060 ROUND  --      56 Draws,       0 Flashes
+---------------------------------------------------------
+ 20 D-Codes      -----    1456 Draws,      68 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.BOT
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.BOT:
+---------------------------------------------------------
+D10:  0.1299 ROUND  --       0 Draws,       4 Flashes
+D12:  0.0590 ROUND  --       0 Draws,       3 Flashes
+D13:  0.0590 SQUARE --       0 Draws,       2 Flashes
+D14:  0.0787 ROUND  --       0 Draws,      25 Flashes
+D15:  0.0512 ROUND  --       0 Draws,       3 Flashes
+D16:  0.0787 SQUARE --       0 Draws,       1 Flashes
+D17:  0.1200 ROUND  --       0 Draws,       2 Flashes
+D18:  0.1200 SQUARE --       0 Draws,       2 Flashes
+D19:  0.0669 SQUARE --       0 Draws,       2 Flashes
+D23:  0.0100 ROUND  --    1118 Draws,       0 Flashes
+D25:  0.0120 ROUND  --      20 Draws,       0 Flashes
+D27:  0.1000 ROUND  --       2 Draws,       0 Flashes
+D28:  0.0394 ROUND  --       0 Draws,       4 Flashes
+D29:  0.0060 ROUND  --      21 Draws,       0 Flashes
+---------------------------------------------------------
+ 14 D-Codes      -----    1161 Draws,      48 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SMT
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SMT:
+---------------------------------------------------------
+D12:  0.0590 ROUND  --       0 Draws,       6 Flashes
+D13:  0.0590 SQUARE --       0 Draws,       2 Flashes
+D14:  0.0787 ROUND  --       0 Draws,      25 Flashes
+D16:  0.0787 SQUARE --       0 Draws,       1 Flashes
+D17:  0.1200 ROUND  --       0 Draws,       2 Flashes
+D18:  0.1200 SQUARE --       0 Draws,       2 Flashes
+D19:  0.0669 SQUARE --       0 Draws,       2 Flashes
+D20:  0.0500 x 0.0400 RECTANGLE -----       3 Flashes
+D21:  0.0380 x 0.0320 RECTANGLE -----      10 Flashes
+D22:  0.0710 x 0.0400 RECTANGLE -----       4 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----       0 Draws,      57 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SMB
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SMB:
+---------------------------------------------------------
+D12:  0.0590 ROUND  --       0 Draws,       3 Flashes
+D13:  0.0590 SQUARE --       0 Draws,       2 Flashes
+D14:  0.0787 ROUND  --       0 Draws,      25 Flashes
+D16:  0.0787 SQUARE --       0 Draws,       1 Flashes
+D17:  0.1200 ROUND  --       0 Draws,       2 Flashes
+D18:  0.1200 SQUARE --       0 Draws,       2 Flashes
+D19:  0.0669 SQUARE --       0 Draws,       2 Flashes
+---------------------------------------------------------
+  7 D-Codes      -----       0 Draws,      37 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SPT
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SPT:
+---------------------------------------------------------
+D20:  0.0500 x 0.0400 RECTANGLE -----       3 Flashes
+D21:  0.0380 x 0.0320 RECTANGLE -----      10 Flashes
+D22:  0.0710 x 0.0400 RECTANGLE -----       4 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----       0 Draws,      17 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SST
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SST:
+---------------------------------------------------------
+D23:  0.0100 ROUND  --       6 Draws,       0 Flashes
+D29:  0.0060 ROUND  --     899 Draws,       0 Flashes
+D30:  0.0079 ROUND  --      69 Draws,       0 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----     974 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SSB
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.SSB:
+---------------------------------------------------------
+D23:  0.0100 ROUND  --       9 Draws,       0 Flashes
+D29:  0.0060 ROUND  --     195 Draws,       0 Flashes
+D30:  0.0079 ROUND  --      69 Draws,       0 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----     273 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.DRD
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.DRD:
+---------------------------------------------------------
+D23:  0.0100 ROUND  --     963 Draws,       0 Flashes
+D26:  0.0500 ROUND  --       5 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     968 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.DRL
+
+Aperture totals for C:\USERS\OSVALDO COLLALTI\DESKTOP\LAVORII IN CORSO\22-311-0\22-311-0.DRL:
+---------------------------------------------------------
+D10:  0.1299 ROUND  --       0 Draws,       4 Flashes
+D15:  0.0512 ROUND  --       0 Draws,       3 Flashes
+D26:  0.0500 ROUND  --       5 Draws,       0 Flashes
+D31:  0.0354 ROUND  --       0 Draws,       5 Flashes
+D32:  0.0472 ROUND  --       0 Draws,      26 Flashes
+D33:  0.0551 ROUND  --       0 Draws,       4 Flashes
+D34:  0.0630 ROUND  --       0 Draws,       2 Flashes
+D35:  0.0118 ROUND  --       0 Draws,       4 Flashes
+---------------------------------------------------------
+  8 D-Codes      -----       5 Draws,      48 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.1299 ROUND  --       0 Draws,      12 Flashes
+D11:  0.0394 ROUND  --       0 Draws,       3 Flashes
+D12:  0.0590 ROUND  --       0 Draws,      15 Flashes
+D13:  0.0590 SQUARE --       0 Draws,       8 Flashes
+D14:  0.0787 ROUND  --       0 Draws,     100 Flashes
+D15:  0.0512 ROUND  --       0 Draws,       9 Flashes
+D16:  0.0787 SQUARE --       0 Draws,       4 Flashes
+D17:  0.1200 ROUND  --       0 Draws,       8 Flashes
+D18:  0.1200 SQUARE --       0 Draws,       8 Flashes
+D19:  0.0669 SQUARE --       0 Draws,       8 Flashes
+D20:  0.0500 x 0.0400 RECTANGLE -----       9 Flashes
+D21:  0.0380 x 0.0320 RECTANGLE -----      30 Flashes
+D22:  0.0710 x 0.0400 RECTANGLE -----      12 Flashes
+D23:  0.0100 ROUND  --    3434 Draws,       0 Flashes
+D24:  0.0250 ROUND  --      27 Draws,       0 Flashes
+D25:  0.0120 ROUND  --      44 Draws,       0 Flashes
+D26:  0.0500 ROUND  --      19 Draws,       0 Flashes
+D27:  0.1000 ROUND  --       4 Draws,       0 Flashes
+D28:  0.0394 ROUND  --       0 Draws,       8 Flashes
+D29:  0.0060 ROUND  --    1171 Draws,       0 Flashes
+D30:  0.0079 ROUND  --     138 Draws,       0 Flashes
+D31:  0.0354 ROUND  --       0 Draws,       5 Flashes
+D32:  0.0472 ROUND  --       0 Draws,      26 Flashes
+D33:  0.0551 ROUND  --       0 Draws,       4 Flashes
+D34:  0.0630 ROUND  --       0 Draws,       2 Flashes
+D35:  0.0118 ROUND  --       0 Draws,       4 Flashes
+---------------------------------------------------------
+ 26 D-Codes      -----    4837 Draws,     275 Flashes
+
+
+No warnings or errors.
